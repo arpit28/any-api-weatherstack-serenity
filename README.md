@@ -4,6 +4,11 @@
 ```
 $ git clone https://github.com/arpit28/any-api-weatherstack-serenity.git
 ```
+## Resource 
+```
+This tests needes access key which lasts for 250 runs after this acces key needes to be updated on 
+https://weatherstack.com/dashboard
+```
 
 ## Running the tests locally
 ```
